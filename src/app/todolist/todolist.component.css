@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    text-shadow: 1cm;
+    font-size: 2rem;
+}
+#submitButton{
+    margin-top: 20px;
+}
+#myCheckbox{
+    margin-left: 30px;
+}
+.outer-cont{
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(to bottom left, #ff002f 0%,#e6eaad 100%);
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
